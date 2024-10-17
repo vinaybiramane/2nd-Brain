@@ -1,10 +1,10 @@
-# CogniVault: Your AI-Powered Second Brain
+# CogniCache: Your AI-Powered Second Brain
 
-CogniVault is an advanced AI-driven system designed to serve as your digital secondary memory. It addresses the challenge of information overload and knowledge retention by creating a personalized, searchable knowledge base from various media sources.
+CogniCache is an advanced AI-driven system designed to serve as your digital secondary memory. It addresses the challenge of information overload and knowledge retention by creating a personalized, searchable knowledge base from various media sources.
 
 ## Project Overview
 
-In today's information-rich world, we often encounter valuable content through articles, videos, and other media. However, retaining and recalling this information can be challenging. CogniVault aims to solve this problem by creating a "second brain" - a system that stores, organizes, and retrieves information when needed, effectively extending your cognitive capabilities.
+In today's information-rich world, we often encounter valuable content through articles, videos, and other media. However, retaining and recalling this information can be challenging. CogniCache aims to solve this problem by creating a "second brain" - a system that stores, organizes, and retrieves information when needed, effectively extending your cognitive capabilities.
 
 ## Key Features
 
@@ -36,5 +36,5 @@ In today's information-rich world, we often encounter valuable content through a
 
 ## Contributing
 
-Contributions to CogniVault are welcome!
+Contributions to CogniCache are welcome!
 
